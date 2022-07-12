@@ -99,5 +99,7 @@
 
 # Results
 
-![result](./results/result1.png)<br>
+![result](./results/result1.png)
+![result](./results/result2.png)
+![result](./results/result3.png)
 
