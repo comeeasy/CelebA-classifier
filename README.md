@@ -100,7 +100,7 @@
 # Results
 
 <img src="./results/result1.png" width="300" height="300">
-<img src="./results/result2.png" width="300" height="300">
-<img src="./results/result3.png" width="300" height="300">
+<img src="./results/result2.png" width="400" height="300">
+<img src="./results/result3.png" width="400" height="300">
 
 
