@@ -99,7 +99,7 @@
 
 # Results
 
-![result](./results/result1.png)
-![result](./results/result2.png)
-![result](./results/result3.png)
+![result](./results/result1.png){: width="300" height="300"}
+![result](./results/result2.png){: width="300" height="300"}
+![result](./results/result3.png){: width="300" height="300"}
 
